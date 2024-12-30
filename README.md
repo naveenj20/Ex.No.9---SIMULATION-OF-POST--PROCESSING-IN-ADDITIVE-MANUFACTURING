@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 20/12/2024
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -47,8 +47,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: Naveen Jaisanker
+### Register Number: 24001290
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
